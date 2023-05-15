@@ -69,6 +69,6 @@ Você também pode ver um pouco mais sobre essa trajetória no meu Currículo La
 
 [CV Lattes](http://lattes.cnpq.br/5465631741781705)
 
-Se você chegou até aqui, mereço pelo menos uma conexão:
+Se você chegou até aqui, mereço pelo menos uma conexão 😉:
 
 [LinkedIn](https://www.linkedin.com/in/amanda-rs/)
