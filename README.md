@@ -54,7 +54,8 @@
 </p>
 
 # Projetos ADA #VemSerTech - Dados | iFood
-[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=ADA_TECH_IFOOD_2023_2024)](https://github.com/RSAmanda/ADA_TECH_IFOOD_2023_2024)
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=ADA_TECH_IFOOD_2023_2024&theme=dracula)](https://github.com/RSAmanda/ADA_TECH_IFOOD_2023_2024)
+
 
 
 # Produções Acadêmicas:
