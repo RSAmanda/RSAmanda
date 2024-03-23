@@ -1,37 +1,71 @@
-![https://media3.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=7941fdc6q3vrx8ne12dylp4n09s581vf1wnn50f3l1062o53&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media3.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=7941fdc6q3vrx8ne12dylp4n09s581vf1wnn50f3l1062o53&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsamanda&label=Profile%20views&color=0e75b6&style=flat" alt="rsamanda" /> </p>
 
-Olá! 😉
+<h1 align="center">Olá 👋, Eu sou Amanda</h1>
+<h3 align="center">Formada em Física, mestre em ciência e tecnologia ambiental e apaixonada por dados</h3>
 
-Meu nome é Amanda Rodrigues de Souza e este texto conta sobre a minha relação com a programação.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Minha trajetória na programação começou em 2013, na faculdade. Cursei Física com ênfase em Física Computacional pela Universidade Federal Fluminense, em Volta Redonda.
-
-Durante a faculdade pude aprender sobre estrutura de dados, POO, Computação de alto desempenho e processamento de sinais. Só em disciplinas eu tive contato com várias linguagens, como C, C++, Java e Fortran90, além de conhecimentos transversais (Linux e LaTeX), extensão e pesquisa.
-
-Tive a oportunidade de contribuir para um projeto incrível chamado [ADACA](https://adaca.com.br/) - Ambiente Digital para Aprendizagem de Crianças Autistas. Trabalhava da parte de jogos (javascript e css). Ajudei a expandir a biblioteca de jogos que são disponibilizados para as crianças atendidas. 
-
-[Ambiente digital de aprendizagem para autistas – ADACA](https://uffacessivel.uff.br/?p=5378)
-
-Durante a faculdade também fui bolsista PIBITI (Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação). Meu projeto, que virou minha monografia, foi sobre a construção de uma miniestação para monitoramento de poluentes atmosféricos. No projeto, eu construí uma estação usando Arduino (programação em C), os dados foram processados pelo DOASIS (JScript) e analisados usando Python (detalhe, aprendi python para fazer o projeto, tive uns seis meses para isso 🤐). 
-
-Olha só que bonitinha ela ⬇️ 💟
-
-![IMG_20190520_115458-03.jpeg](IMG_20190520_115458-03.jpeg)
-
-Depois de terminar a faculdade, em 2019, resolvi fazer mestrado. Escolhi fazer mestrado em Ciência e Tecnologia Ambiental pela UFABC. Passei no primeiro edital do [MAI](https://mai-dai.ufabc.edu.br/) - Mestrado Acadêmico de Inovação, um projeto piloto do CNPq, no qual visa a parceria entre Universidades e o Setor Privado.
+- 📫 Contato: **amanda.rodriguesouza@gmail.com**
 
 
-Minha pesquisa tinha como parceria a Empresa SOMAR Meteorologia, que foi absorvida pela ClimaTempo. Pesquisei sobre o uso de índices de precipitação para o previsão da vazão (conhecimento útil na hora de precificar nossa energia elétrica 💸)
 
-E trabalhando no mestrado que me dei conta que o que eu fazia poderia ser chamado de análise ou ciência de dados. Fiz a análise de um grande volume de dados (centenas de estações, com dezenas de anos de dados diários), retirei os dados errados, fiz agrupamentos, analises de padrões, construí índices e ainda arrisquei um modelo preditivo. 
+<div style="display: flex; justify-content: center;">
+<table align="center">
+  <tr>
+    <td>
+      <h3>Conecte Comigo:</h3>
+      <p align="center">
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/amanda-rs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amanda-rs/" height="30" width="40" /></a>
+    </p>
+    </td>
+    <td>
+      <h3>Currículo Lattes:</h3>
+      <p align="center">
+        <a href="http://lattes.cnpq.br/5465631741781705" target="blank"><img align="center" src="https://etcaeterahome.files.wordpress.com/2020/06/9e287-logo-lattes.png" alt="http://lattes.cnpq.br/5465631741781705" height="30" width="40" /></a>
+    </p>
+    </td>
+  </tr>
+</table>
+</div>
 
-Tanto a pesquisa da minha dissertação, como outros estudos resultaram em algumas produções acadêmicas listadas a seguir. Vários dos scripts que construí para tais publicações não estamos disponíveis devido ao acordo de parceria.
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> 
+  <a href="https://qgis.org/pt_BR/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGis" width="40" height="40"/> </a> 
+</p>
 
-No final do mestrado, me inscrevi e passei no programa Desenvolve 2023 do Grupo Boticário para a trilha de dados. Comecei a alimentar o github com as notas de aulas dos cursos que realizei e alguns scritps que fiz durante o mestrado.
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RSAmanda&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-Pretendo seguir adicionando aqui no github meus aprendizados, que continuarão focados na área de dados e assuntos correlacionados.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsamanda&show_icons=true&locale=en&layout=compact" alt="rsamanda" /></p>
 
-## Produções
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsamanda&show_icons=true&locale=en" alt="rsamanda" /></p>
+
+
+# Projetos ADA #VemSerTech - Dados | iFood
+## Projetos dos Módulo:
+- Módulo 1 - Lógica de Programação I
+- Módulo 2 - Lógica de Programação II
+- Módulo 3 - Banco de Dados II
+- Módulo 4 - Técnicas de Programação I
+- Módulo 6 - Visualização com Power BI
+  
+[Organização do Grupo de Trabalho](https://github.com/Grupo-B-Turma-2-Ada-VemSerTech)
+
+- Módulo 5 - Estatística
+  
+[Repositório do projeto do Módulo 5](https://github.com/AdrielyZBoller/Projeto_Mod05_Ada_VemSerTech)
+
+## Produções acadêmicas
 
 Deixo aqui uma lista de produções científicas que escrevi e/ou contribuí com a criação de scripts de análise de dados:
 
@@ -62,13 +96,3 @@ Deixo aqui uma lista de produções científicas que escrevi e/ou contribuí com
 ### Engineering and Science
 
 [Padrão e extremos de precipitação na cidade de São Paulo](https://periodicoscientificos.ufmt.br/ojs/index.php/eng/article/view/15137)
-
----
-
-Você também pode ver um pouco mais sobre essa trajetória no meu Currículo Lattes:
-
-[CV Lattes](http://lattes.cnpq.br/5465631741781705)
-
-Se você chegou até aqui, mereço pelo menos uma conexão 😉:
-
-[LinkedIn](https://www.linkedin.com/in/amanda-rs/)
