@@ -54,18 +54,8 @@
 </p>
 
 # Projetos ADA #VemSerTech - Dados | iFood
-## Projetos dos Módulo:
-- Módulo 1 - Lógica de Programação I
-- Módulo 2 - Lógica de Programação II
-- Módulo 3 - Banco de Dados II
-- Módulo 4 - Técnicas de Programação I
-- Módulo 6 - Visualização com Power BI
-  
-[Organização do Grupo de Trabalho](https://github.com/Grupo-B-Turma-2-Ada-VemSerTech)
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=ADA_TECH_IFOOD_2023_2024)](https://github.com/RSAmanda/ADA_TECH_IFOOD_2023_2024)
 
-- Módulo 5 - Estatística
-  
-[Repositório do projeto do Módulo 5](https://github.com/AdrielyZBoller/Projeto_Mod05_Ada_VemSerTech)
 
 # Produções Acadêmicas:
 
