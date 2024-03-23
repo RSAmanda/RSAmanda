@@ -44,12 +44,14 @@
   <a href="https://qgis.org/pt_BR/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGis" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RSAmanda&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RSAmanda&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsamanda&show_icons=true&locale=en&layout=compact" alt="rsamanda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsamanda&show_icons=true&locale=en" alt="rsamanda" /></p>
-
+  <!-- Insira sua imagem dentro de uma tag <div> se desejar aplicar estilos adicionais -->
+  <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: fit-content;">
+    <img class="centered-image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSAmanda&layout=compact&theme=dracula" alt="Top Langs">
+  </div>
+</p>
 
 # Projetos ADA #VemSerTech - Dados | iFood
 ## Projetos dos Módulo:
@@ -65,7 +67,7 @@
   
 [Repositório do projeto do Módulo 5](https://github.com/AdrielyZBoller/Projeto_Mod05_Ada_VemSerTech)
 
-## Produções acadêmicas
+# Produções Acadêmicas:
 
 Deixo aqui uma lista de produções científicas que escrevi e/ou contribuí com a criação de scripts de análise de dados:
 
