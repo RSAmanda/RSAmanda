@@ -53,6 +53,9 @@
   </div>
 </p>
 
+# ADA HACK 2024 [🏆 Primeiro Lugar 🏆]
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=ADA-Hack-Grupo-DD3&repo=main-hackton&theme=dracula)](https://github.com/ADA-Hack-Grupo-DD3/main-hackton)
+
 # Projetos ADA #VemSerTech - Dados | iFood
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=ADA_TECH_IFOOD_2023_2024&theme=dracula)](https://github.com/RSAmanda/ADA_TECH_IFOOD_2023_2024)
 
