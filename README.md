@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsamanda&label=Profile%20views&color=0e75b6&style=flat" alt="rsamanda" /> </p>
 
 <h1 align="center">Olá 👋, Eu sou Amanda</h1>
-<h3 align="center">Formada em Física, mestre em ciência e tecnologia ambiental e apaixonada por dados</h3>
+<h3 align="center">Formada em Física e mestre em ciência e tecnologia ambiental.
+  
+Bacharel em ciência de dados em formação.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
